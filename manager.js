@@ -31,6 +31,6 @@ class Manager extends Employee {
     
 }
 
-c
+
 
 module.exports = Manager;
